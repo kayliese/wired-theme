@@ -1,0 +1,21 @@
+{
+    "name": "wired",
+    "displayName": "wired",
+    "description": "a dark and pink theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "wired",
+                "uiTheme": "vs-dark",
+                "path": "./themes/wired-color-theme.json"
+            }
+        ]
+    }
+}
